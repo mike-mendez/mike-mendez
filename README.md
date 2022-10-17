@@ -23,9 +23,17 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/mike-mendez/" rel="nofollow">
 <img src="https://img.shields.io/badge/MikeMendez-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
- </a>
+</a>
  
- <a href="https://www.instagram.com/mike.mendez__/" rel="nofollow">
+<a href="https://www.instagram.com/mike.mendez__/" rel="nofollow">
 <img src="https://img.shields.io/badge/mike.mendez__-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
- </a>
+</a>
+ 
+<a href="https://github.com/mike-mendez/" rel="nofollow">
+<img src="https://img.shields.io/badge/mike-mendez-100000?style=flat-square&logo=github&logoColor=white"/>
+</a>
+ 
+<a href="https://dev.to/mikemendez/" rel="nofollow">
+<img src="https://img.shields.io/badge/@mikemendez-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/>
+</a>
  
