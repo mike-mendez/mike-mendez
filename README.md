@@ -24,13 +24,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mike-mendez/" rel="nofollow">
 <img src="https://img.shields.io/badge/MikeMendez-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
  </a>
-
-<!---
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
--->
-
-https://github-profile-trophy.vercel.app/?username={mike-mendez}
-
-https://github-readme-streak-stats.herokuapp.com/?user=mike-mendez
-
-https://activity-graph.herokuapp.com/graph?username=mike-mendez&theme=minimal
+ 
+ <a href="https://www.instagram.com/mike.mendez__/" rel="nofollow">
+<img src="https://img.shields.io/badge/mike.mendez__-0077B5?style=flat-square&logo=instagram&logoColor=white"/>
+ </a>
+ 
