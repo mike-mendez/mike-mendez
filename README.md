@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>
  
 <a href="https://github.com/mike-mendez/" rel="nofollow">
-<img src="https://img.shields.io/badge/mike-mendez-100000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/mikemendez-100000?style=flat-square&logo=github&logoColor=white"/>
 </a>
  
 <a href="https://dev.to/mikemendez/" rel="nofollow">
