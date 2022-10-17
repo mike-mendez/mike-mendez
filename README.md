@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/mike-mendez/" rel="nofollow">
+<a href="https://www.linkedin.com/in/mendez-mike/" rel="nofollow">
 <img src="https://img.shields.io/badge/MikeMendez-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
  
