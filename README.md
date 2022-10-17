@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://discord.com/users/654143796375977995" rel="nofollow">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square-for-the-badge&logo=discord&logoColor=white"/>
 </a>
