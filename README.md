@@ -26,6 +26,6 @@ Here are some ideas to get you started:
  </a>
  
  <a href="https://www.instagram.com/mike.mendez__/" rel="nofollow">
-<img src="https://img.shields.io/badge/mike.mendez__-0077B5?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/mike.mendez__-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
  </a>
  
