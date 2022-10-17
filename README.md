@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 <a href="https://dev.to/mikemendez/" rel="nofollow">
 <img src="https://img.shields.io/badge/@mikemendez-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/>
 </a>
- 
-<a href="https://dev.to/mikemendez/" rel="nofollow">
-<img src="https://img.shields.io/badge/@mikemendez-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/>
-</a>
 
 <a href="https://discord.com/users/654143796375977995" rel="nofollow">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square-for-the-badge&logo=discord&logoColor=white"/>
