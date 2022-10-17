@@ -44,3 +44,7 @@ Here are some ideas to get you started:
 <a href="https://discord.com/users/654143796375977995" rel="nofollow">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square-for-the-badge&logo=discord&logoColor=white"/>
 </a>
+
+<a href="mailto:mikemendez12328@gmail.com" rel="nofollow">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square-for-the-badge&logo=gmail&logoColor=white"/>
+</a>
