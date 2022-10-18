@@ -65,6 +65,8 @@
 
 <h3>🚀 Quick Stats</h3>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff"/>
+
 <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff" rel="noopener noreferrer nofollow">
 <img src="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff"/>
 </a>
