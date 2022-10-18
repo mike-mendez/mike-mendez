@@ -1,4 +1,4 @@
-### <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Hi There! I'm <a href="https://github.com/mike-mendez/" rel="nofollow">Mike</a></h1>
+### <h1 style="border-bottom: 1px solid black"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Hi There! I'm <a href="https://github.com/mike-mendez/" rel="nofollow">Mike</a></h1>
 
 <h2>:mailbox_with_mail: You can find me at:</h2>
 <!--
