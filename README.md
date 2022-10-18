@@ -1,7 +1,7 @@
 ### <h1 style="border-bottom: 1px solid gray"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Hi There! I'm <a href="https://github.com/mike-mendez/" rel="nofollow">Mike</a></h1>
 
 <p>Welcome to my page!</p>
-<p>I'm a Backend Engineer from New York, USA<img src="https://user-images.githubusercontent.com/98223250/196309200-48c9984d-b57a-41a7-b486-30e645ebfc20.png" width="15">. Currently living in Seoul, South Korea<img src="https://user-images.githubusercontent.com/98223250/196309142-dd8f69ba-90e9-4c7a-a2c0-69054223dde5.png" width="15"></p>
+<p>I'm a Backend Engineer from New York, USA<img src="https://user-images.githubusercontent.com/98223250/196309482-dfae9330-8062-412e-99c5-6087be9e8bc1.png" width="15">. Currently living in Seoul, South Korea<img src="https://user-images.githubusercontent.com/98223250/196309377-724dc77f-a596-4e7f-9ae8-b0e02c8ab215.png" width="15"></p>
 
 <h3>:mailbox_with_mail: You can find me at:</h3>
 
