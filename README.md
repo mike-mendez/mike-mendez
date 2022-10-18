@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Mike Mendez <a href="https://github.com/mike-mendez/" rel="nofollow">Mike Mendez</a>
 
 <!--
 **mike-mendez/mike-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
