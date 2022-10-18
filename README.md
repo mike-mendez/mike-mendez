@@ -69,7 +69,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff"/>
 </a>
 <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&theme=nord&layout=compact">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&theme=nord&layout=compact" width="450"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&theme=nord&layout=compact" width="425"/>
 </a>
 
 <!--
