@@ -31,7 +31,25 @@
 
 <h3>Things I Code With:</h3>
 
+<a target="_blank" href="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
+</a>
 
+<a target="_blank" href="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-for-the-badge&logo=css3&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-for-the-badge&logo=css3&logoColor=white"/>
+</a>
+
+<a target="_blank" href="mailto:mikemendez12328@gmail.com" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
+</a>
+
+<a target="_blank" href="mailto:mikemendez12328@gmail.com" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
+</a>
+
+<a target="_blank" href="mailto:mikemendez12328@gmail.com" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
+</a>
 
 <!--
 **mike-mendez/mike-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
