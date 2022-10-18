@@ -12,7 +12,11 @@
 <a href="https://www.instagram.com/mike.mendez__/" rel="nofollow">
 <img src="https://img.shields.io/badge/mike.mendez__-E4405F?style=flat-square-for-the-badge&logo=instagram&logoColor=white"/>
 </a>
- 
+
+<a href="https://twitter.com/mikemendez404" rel="nofollow">
+<img src="https://img.shields.io/badge/@mikemendez404-1DA1F2?style=flat-square-for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
 <a href="https://github.com/mike-mendez/" rel="nofollow">
 <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square-for-the-badge&logo=github&logoColor=white"/>
 </a>
