@@ -6,7 +6,7 @@
 <h3>:mailbox_with_mail: You can find me at:</h3>
 
 <a href="https://www.linkedin.com/in/mendez-mike/" rel="nofollow">
-<img src="https://img.shields.io/badge/MikeMendez-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mike_Mendez-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
  
 <a href="https://www.instagram.com/mike.mendez__/" rel="nofollow">
