@@ -51,6 +51,17 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square-for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
+<a target="_blank" href="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square-for-the-badge&logo=docker&logoColor=white"/>
+</a>
+
+<a target="_blank" href="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square-for-the-badge&logo=git&logoColor=white"/>
+</a>
+
+<a target="_blank" href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square-for-the-badge&logo=mysql&logoColor=white"/>
+</a>
 <!--
 **mike-mendez/mike-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
