@@ -60,7 +60,7 @@
 </a>
 
 <a target="_blank" href="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=flat-square-for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=flat-square-for-the-badge&logo=brave&logoColor=white"/>
 </a>
 
 <h3>🚀 Quick Stats</h3>
