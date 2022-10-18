@@ -43,12 +43,12 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a>
 
-<a target="_blank" href="mailto:mikemendez12328@gmail.com" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
+<a target="_blank" href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square-for-the-badge&logo=php&logoColor=white"/>
 </a>
 
-<a target="_blank" href="mailto:mikemendez12328@gmail.com" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
+<a target="_blank" href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square-for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
 <!--
