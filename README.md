@@ -1,5 +1,8 @@
 ### <h1 style="border-bottom: 1px solid gray"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Hi There! I'm <a href="https://github.com/mike-mendez/" rel="nofollow">Mike</a></h1>
 
+<p>Welcome to my page!</p>
+<p>I'm a Backend Engineer from :us:New York, USA. Currently living in Seoul, South Korea</p>
+
 <h3>:mailbox_with_mail: You can find me at:</h3>
 
 <a href="https://www.linkedin.com/in/mendez-mike/" rel="nofollow">
@@ -25,6 +28,10 @@
 <a href="mailto:mikemendez12328@gmail.com" rel="nofollow">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square-for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<h3>Things I Code With:</h3>
+
+
 
 <!--
 **mike-mendez/mike-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
