@@ -1,5 +1,5 @@
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Hi There! My name is <a href="https://github.com/mike-mendez/" rel="nofollow">Mike</a>!
-
+<hr>
 <!--
 **mike-mendez/mike-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
