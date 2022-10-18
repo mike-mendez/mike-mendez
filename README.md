@@ -65,9 +65,12 @@
 
 <h3>🚀 Quick Stats</h3>
 
+<a target="_blank" href="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff"/>
-
+</a>
+<a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&theme=nord&layout=compact">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&theme=nord&layout=compact"/>
+</a>
 
 <!--
 **mike-mendez/mike-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
