@@ -10,7 +10,7 @@
 </a>
  
 <a href="https://www.instagram.com/mike.mendez__/" rel="nofollow">
-<img src="https://img.shields.io/badge/mike.mendez__-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/mike.mendez__-E4405F?style=flat-square-for-the-badge&logo=instagram&logoColor=white"/>
 </a>
  
 <a href="https://github.com/mike-mendez/" rel="nofollow">
@@ -18,7 +18,7 @@
 </a>
  
 <a href="https://dev.to/mikemendez/" rel="nofollow">
-<img src="https://img.shields.io/badge/@mikemendez-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/>
+<img src="https://img.shields.io/badge/@mikemendez-0A0A0A?style=flat-square-for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/654143796375977995" rel="nofollow">
@@ -39,8 +39,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-for-the-badge&logo=css3&logoColor=white"/>
 </a>
 
-<a target="_blank" href="mailto:mikemendez12328@gmail.com" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
+<a target="_blank" href="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=white"/>
 </a>
 
 <a target="_blank" href="mailto:mikemendez12328@gmail.com" rel="noopener noreferrer nofollow">
