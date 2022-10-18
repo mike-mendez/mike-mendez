@@ -65,7 +65,7 @@
 
 <h3>🚀 Quick Stats</h3>
 
-<a target="_blank" href="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" rel="noopener noreferrer nofollow">
+<a target="_blank" href="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff" rel="noopener noreferrer nofollow">
 <img src="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff"/>
 </a>
 
