@@ -40,7 +40,7 @@
 </a>
 
 <a target="_blank" href="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a>
 
 <a target="_blank" href="mailto:mikemendez12328@gmail.com" rel="noopener noreferrer nofollow">
