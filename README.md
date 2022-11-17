@@ -47,10 +47,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a>
 
-<a target="_blank" href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square-for-the-badge&logo=nodedotjs&logoColor=white"/>
-</a>
-
 <a target="_blank" href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square-for-the-badge&logo=python&logoColor=blue"/>
 </a>
