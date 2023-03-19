@@ -16,10 +16,6 @@
 <a href="https://twitter.com/mikemendez404" rel="nofollow">
 <img src="https://img.shields.io/badge/@mikemendez404-1DA1F2?style=flat-square-for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-
-<a href="https://github.com/mike-mendez/" rel="nofollow">
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square-for-the-badge&logo=github&logoColor=white"/>
-</a>
  
 <a href="https://dev.to/mikemendez/" rel="nofollow">
 <img src="https://img.shields.io/badge/@mikemendez-0A0A0A?style=flat-square-for-the-badge&logo=devdotto&logoColor=white"/>
@@ -29,46 +25,26 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square-for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:mikemendez12328@gmail.com" rel="nofollow">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square-for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <h3>Things I Code With:</h3>
 
-<a target="_blank" href="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
+<a target="_blank" href="https://img.shields.io/badge/React_Native-20232A?style=flat-square-for-the-badge&logo=javascript&logoColor=61DAFB" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square-for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
-<a target="_blank" href="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-for-the-badge&logo=css3&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-for-the-badge&logo=css3&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square-for-the-badge&logo=python&logoColor=blue"/>
+<a target="_blank" href="https://img.shields.io/badge/Node.js-339933?style=flat-square-for-the-badge&logo=javascript&logoColor=61DAFB" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square-for-the-badge&logo=nodedotjs&logoColor=white"/>
 </a>
 
 <a target="_blank" href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square-for-the-badge&logo=flask&logoColor=white"/>
 </a>
 
+<a target="_blank" href="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=flask&logoColor=white" rel="noopener noreferrer nofollow">
+<img src="https://img.shields.io/badge/FastAPI-109989?style=flat-square-for-the-badge&logo=FASTAPI&logoColor=white"/>
+</a>
+
 <a target="_blank" href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" rel="noopener noreferrer nofollow">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square-for-the-badge&logo=php&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square-for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square-for-the-badge&logo=docker&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Git-E44C30?style=flat-square-for-the-badge&logo=git&logoColor=white"/>
 </a>
 
 <h3>🚀 Quick Stats</h3>
