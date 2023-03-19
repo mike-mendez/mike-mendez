@@ -50,10 +50,10 @@
 <h3>🚀 Quick Stats</h3>
 
 <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff" width="420"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff" width="420" />
 </a>
 <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact" width="350"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact" width="350" height="175"/>
 </a>
 
 <!--
