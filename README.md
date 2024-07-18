@@ -1,7 +1,7 @@
 ### <h1 style="border-bottom: 1px solid gray"> Hi There! I'm <a href="https://github.com/mike-mendez/" rel="nofollow">Mike</a></h1>
 
-<p>Welcome to my page!</p>
-<p>I'm a Software Engineer from New York, USA <img src="https://user-images.githubusercontent.com/98223250/196309482-dfae9330-8062-412e-99c5-6087be9e8bc1.png" width="15">. Currently living in Seoul, South Korea <img src="https://user-images.githubusercontent.com/98223250/196309377-724dc77f-a596-4e7f-9ae8-b0e02c8ab215.png" width="15"></p>
+<p>Hello Hola 안녕하세요</p>
+<p>I'm a software engineer from New York <img src="https://user-images.githubusercontent.com/98223250/196309482-dfae9330-8062-412e-99c5-6087be9e8bc1.png" width="15">. Currently living in Seoul <img src="https://user-images.githubusercontent.com/98223250/196309377-724dc77f-a596-4e7f-9ae8-b0e02c8ab215.png" width="15"></p>
 
 <h3>:mailbox_with_mail: You can find me at:</h3>
 
