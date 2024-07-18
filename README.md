@@ -13,47 +13,8 @@
 <img src="https://img.shields.io/badge/mike.mendez__-E4405F?style=flat-square-for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/mikemendez404" rel="nofollow">
-<img src="https://img.shields.io/badge/@mikemendez404-1DA1F2?style=flat-square-for-the-badge&logo=twitter&logoColor=white"/>
-</a>
- 
-<a href="https://dev.to/mikemendez/" rel="nofollow">
-<img src="https://img.shields.io/badge/@mikemendez-0A0A0A?style=flat-square-for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
-
 <a href="https://discord.com/users/654143796375977995" rel="nofollow">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square-for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<h3>Things I Code With:</h3>
-
-<a target="_blank" href="https://img.shields.io/badge/React_Native-20232A?style=flat-square-for-the-badge&logo=javascript&logoColor=61DAFB" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square-for-the-badge&logo=react&logoColor=61DAFB"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/Node.js-339933?style=flat-square-for-the-badge&logo=javascript&logoColor=61DAFB" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square-for-the-badge&logo=nodedotjs&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square-for-the-badge&logo=flask&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=flask&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/FastAPI-109989?style=flat-square-for-the-badge&logo=FASTAPI&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square-for-the-badge&logo=php&logoColor=white"/>
-</a>
-
-<h3>🚀 Quick Stats</h3>
-
-<a target="_blank" href="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff" width="420" />
-</a>
-<a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike-mendez&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact" width="350" height="175"/>
 </a>
 
 <!--
