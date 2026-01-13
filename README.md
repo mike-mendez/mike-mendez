@@ -8,7 +8,6 @@
 <a href="https://www.linkedin.com/in/mendez-mike/" rel="nofollow">
 <img src="https://img.shields.io/badge/Mike_Mendez-0077B5?style=flat-square-for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://discord.com/users/654143796375977995" rel="nofollow">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square-for-the-badge&logo=discord&logoColor=white"/>
 </a>
